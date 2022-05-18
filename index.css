@@ -4,7 +4,7 @@ h1{Text-align: center; color: rgb(255, 255, 255)}
 
 .header{background: rgb(80, 80, 80)} /*Colore barra */
 .header__logo{color:#fff; float: left; display: block;padding:15px ;text-decoration: none;border: 1px solid #000;} /* Stile immagine barra */
-.img{ border: 5px solid #000; } /* Stile immagine */
+.img{border: 5px solid #000; } /* Stile immagine */
 .header__menu{float: left; margin: 0;padding: 0} /* allineamento menù */
 .header__text{float: center; margin: 0;padding: 0} /* allineamento testo */
 .header__menu__item{display: inline-block; text-decoration: none;} /* allieamento caselle */
