@@ -18,6 +18,11 @@ h1{Text-align: center; color: rgb(255, 255, 255)}
 .button{display: inline-block; background: #fff; color: #000; padding: 15px 30px; border-radius: 3px; text-decoration: none;} /* stile bottone */
 p{line-height: 22px;} /* stile paragrafo */
 
+.pos1{position: absolute; top: 20%}
+.pos2{position: absolute; top: 25%}
+.pos3{position: absolute; top: 45%}
+.pos4{position: absolute; top: 50%}
+
 .clearfix:after { /* fixa robe */
   visibility: hidden;
   display: block;
