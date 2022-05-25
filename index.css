@@ -1,5 +1,4 @@
-html,body{height:100%} /*Altezza sito */
-body{font-family:"macondo"; background-image: url("background.jpg")}
+body{height:100%; font-family:"macondo"; background-image: url("background.jpg")}
 h1{Text-align: center; color: rgb(255, 255, 255)}
 
 .header{background: rgb(80, 80, 80)} /*Colore barra */
