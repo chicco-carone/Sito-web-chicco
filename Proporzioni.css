@@ -1,0 +1,29 @@
+@media (min-width: 1366px) { 
+    /* stili */
+   
+
+    /* Posizioni Immagini */
+
+    /* Posizioni Altri elementi */
+    
+    }
+
+   @media (min-width: 1920px) {
+    
+    /* stili */
+
+
+    /* Posizioni Immagini */
+
+
+
+    /* Posizioni Altri elementi */
+    .pos1{position: absolute; top: 20%}
+    .pos2{position: absolute; top: 25%}
+    .pos3{position: absolute; top: 45%}
+    .pos4{position: absolute; top: 50%}
+
+
+
+   }
+
